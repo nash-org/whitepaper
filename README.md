@@ -10,7 +10,7 @@
 
 # 背景
 
-2008年，中本聪（Satoshi Nakamoto）在[《比特币：一种对等网络电子现金系统》](https://bitcoin.org/bitcoin.pdf)中提出“区块链”概念，并在2009年创立了比特币网络，开发出第一个区块，即[“创世区块”](https://www.blockchain.com/btc/block-height/0)。中本聪开创了一个全新的领域，点对点的分布式网络架构激发了人们对于去中心化世界的无穷想象。
+2008年，中本聪（Satoshi Nakamoto）在[《比特币：一种对等网络电子现金系统》](https://bitcoin.org/bitcoin.pdf)中提出“区块链”概念，并在2009年创立了比特币网络，开发出第一个区块，即[“创世区块”](https://www.blockchain.com/btc/block-height/0)。比特币开创了一个全新的领域，点对点的分布式网络架构激发了人们对于去中心化世界的无穷想象。
 
 2013年底，比特币突破1000美元关口，维塔利克·布特林（Vitalik Buterin）撰写第一版[以太坊白皮书](https://blog.ethereum.org/2014/01/23/ethereum-now-going-public/),尝试通过智能合约将去中心化的应用场景从单一的电子货币扩展到通用应用领域。[以太坊通过ICO融资](https://github.com/ethereum/ethereum-org/blob/master/public/pdf/TermsAndConditionsOfTheEthereumGenesisSale.pdf)获取巨大成功，成为目前（至2019年9月1日）历史上最大金额的ICO项目。
 
