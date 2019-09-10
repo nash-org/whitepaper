@@ -16,14 +16,7 @@
 
 # 背景
 
-
-维塔利克·布特林（Vitalik Buterin）撰写第一版[以太坊白皮书](https://blog.ethereum.org/2014/01/23/ethereum-now-going-public/),尝试通过智能合约将去中心化的应用场景从单一的电子货币扩展到通用应用领域。
-创业者们开始试图用“去中心化的场景”来重构和解决当今时代的生活、商业、社会甚至国家存在的各种问题，人们的想象力也扩展到了几乎无所不在的程度。
-
-借力ICO，
-
-
-，2008年，中本聪（Satoshi Nakamoto）在[《比特币：一种对等网络电子现金系统》](https://bitcoin.org/bitcoin.pdf)中提出“区块链”概念。2009年，中本聪发布比特币网络客户端第一个版本，并开发出第一个区块，即[“创世区块”](https://www.blockchain.com/btc/block-height/0)。比特币的成功发布开创了一个全新的领域，。
+2008年，中本聪（Satoshi Nakamoto）在[《比特币：一种对等网络电子现金系统》](https://bitcoin.org/bitcoin.pdf)中提出“区块链”概念。2009年，中本聪发布比特币网络客户端第一个版本，并开发出第一个区块，即[“创世区块”](https://www.blockchain.com/btc/block-height/0)。比特币的成功发布开创了一个全新的领域，。
 
 维塔利克·布特林（Vitalik Buterin）撰写第一版[以太坊白皮书](https://blog.ethereum.org/2014/01/23/ethereum-now-going-public/),尝试通过智能合约将去中心化的应用场景从单一的电子货币扩展到通用应用领域。2014年，[以太坊通过ICO融资](https://github.com/ethereum/ethereum-org/blob/master/public/pdf/TermsAndConditionsOfTheEthereumGenesisSale.pdf)获取巨大成功，成为目前（至2019年9月1日）历史上最大金额的ICO项目。
 
